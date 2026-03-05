@@ -1,9 +1,12 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,100..900&display=swap" rel="stylesheet">
+
+<div style="font-family: 'Roboto Condensed', sans-serif;">
+
 <h1 align="center">Prazer, Pedro</h1>
 <h3>Conta principal:https://github.com/PedroHenriqueAnjos</h3>
 - Técnico em informática | Atualmente estudando Back-End e Cloud (Java e AWS).  
-
-
-
 
 <h1>Habilidades</h1>
 <div style="display: inline_block">
@@ -12,8 +15,6 @@
   <img align="center" alt="Pedro-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Pedro-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-
 
 <h1>Minhas Redes</h1>
 <div>
@@ -35,3 +36,5 @@
   <li>Projeto de gerenciamento de tarefas em JS</li>
   <li>Scripts de automação em Python</li>
 </ul>
+
+</div>
